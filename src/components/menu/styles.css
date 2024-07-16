@@ -1,0 +1,19 @@
+.card {
+    padding : 30px ;
+    display: flex;
+    gap : 30px ;
+    justify-content: center;
+    border : 2px solid red ;
+    width: 50% ;
+ }
+ .img-container {
+      background-image: url('Safeimagekit-resized-img.png');
+      border : 2px solid red ;
+      width : 250px ;
+      height: 250px;
+ }
+ .info {
+     width : 50% ;
+     font-size: 18px;
+ }
+
