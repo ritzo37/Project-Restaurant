@@ -1,4 +1,3 @@
-import './style.css' ;
 import restaurantImage from './kristaps-grundsteins-tQMXs0ee8B0-unsplash.jpg' ;
 function createHome(){
     

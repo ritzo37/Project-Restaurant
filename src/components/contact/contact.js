@@ -1,4 +1,3 @@
-
 const mainContentDiv = document.querySelector('.main-content');
 function createContact(){
       const text = document.createElement('h1');
